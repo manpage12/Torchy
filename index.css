@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: #001b36;
+    color: #839496;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+p.bio {
+    font-style: italic;
+}
